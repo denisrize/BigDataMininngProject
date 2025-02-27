@@ -1,5 +1,5 @@
 # **Impact of the 2023 UCI Points System Modification on Professional Cycling Teams**
-
+![cycling_img](https://github.com/user-attachments/assets/30b6852b-4157-4299-a60a-396618640d64)
 ## **Project Overview**
 This project investigates the impact of the **2023 UCI points system modification** on professional cycling teams. The UCI revised its ranking methodology by redistributing points across different race classifications and expanding team ranking calculations from the **top 10 to the top 20 riders** per team. These changes aimed to encourage broader participation and reduce reliance on a few elite riders.
 
