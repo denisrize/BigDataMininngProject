@@ -14,7 +14,7 @@ This project investigates the impact of the **2023 UCI points system modificatio
 
 Furthermore, the UCI World Ranking for teams, which up until now has been determined by the total points obtained by the best 10 riders in each team, will now be calculated on the basis of the results of the best 20 riders (which corresponds to the minimum number of riders for UCI ProTeams).
 
-This increase in the number of riders is designed not only to better reflect the competitive strength of the teams but also to reduce the downside of their best riders being unavailable for any reason (for example, injury or illness) during a given season. For further details, read this [article](https://your-website.com](https://www.uci.org/pressrelease/modification-of-points-scale-for-mens-events-in-uci-international-road/2YPy6zPPse6w8c5s9J0dKd))
+This increase in the number of riders is designed not only to better reflect the competitive strength of the teams but also to reduce the downside of their best riders being unavailable for any reason (for example, injury or illness) during a given season. For further details, read this [article](https://www.uci.org/pressrelease/modification-of-points-scale-for-mens-events-in-uci-international-road/2YPy6zPPse6w8c5s9J0dKd)
  
 Using **race results, team rankings, and rider performance data from 2020 to 2023**, this study analyzes how teams of different budget categories adapted their strategies in response to these regulatory changes.
 
