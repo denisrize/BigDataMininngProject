@@ -1,4 +1,4 @@
-# **Impact of the 2023 UCI Points System Modification on Professional Cycling Teams**
+# **Impact of the 2023 UCI Points System Modification on Professional Cycling Teams strategy**
 <img src="https://github.com/user-attachments/assets/30b6852b-4157-4299-a60a-396618640d64" alt="cycling_img" width="200"/>
 
 ## **Project Overview**
