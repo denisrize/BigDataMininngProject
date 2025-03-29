@@ -22,9 +22,23 @@ To assess the implications of the UCI modification, this project focuses on four
 
 ## **Key Findings**
 - **Race Participation:** High-budget teams maintained stable race selection patterns, while low-budget teams shifted toward races with moderate points increases.
+
+![new_vs_abonded](https://github.com/user-attachments/assets/0db17dee-9be4-4a6b-9192-2b83cb90f484)
+![world_participation_eu](https://github.com/user-attachments/assets/b8279a90-6710-4079-af59-c96c518e3012)
+
+(Blue represent **higher** budget teams)
+
 - **Roster Allocation:** No clear overall trend emerged, with teams displaying varying strategies in strengthening and weakening their lineups for different races.
+![roster_strength](https://github.com/user-attachments/assets/c08ef181-3371-4840-9a96-cbe6609f0cc9)
+                          <img src="https://github.com/user-attachments/assets/1676a05e-eb75-47fa-ad4b-f79693edfd03" alt="graph" width="600"/>
+
 - **Rider Strategy:** Low- and medium-budget teams diversified rider participation, reducing reliance on a few star riders, whereas high-budget teams retained a more stable strategy.
-- **Team Rankings:** ProTeams, benefiting from flexible race selection, improved their rankings, while low-budget WorldTour teams struggled due to mandatory high-level race participation.
+![riders_participation_internal_rank](https://github.com/user-attachments/assets/8b4b1b0d-0302-49b4-b8c9-ff9b859aa623)
+![riders_participation_leader_score](https://github.com/user-attachments/assets/6bc3b591-0d6a-4d63-ae24-f0f78ebff9ad)
+
+- **Team Rankings:** ProTeams (subcategory inside low-budget teams), benefiting from flexible race selection, improved their rankings, while low-budget WorldTour teams struggled due to mandatory high-level race participation (hence the large variability in final ranking).
+<img src="https://github.com/user-attachments/assets/240d1f70-8d67-455b-a55b-ce3685f93002" alt="points" width="500"/>
+<img src="https://github.com/user-attachments/assets/ab22c297-fa83-4897-8b5b-45abed81cbec" alt="ranking" width="500"/>
 
 ## **Code and Data Availability**
 The dataset and analysis code are available in this repository. However, the **web crawler used to extract the data from ProCyclingStats is not included**, as it is part of an ongoing research project.
