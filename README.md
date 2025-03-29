@@ -27,7 +27,7 @@ To assess the implications of the UCI modification, this project focuses on four
 - **Team Rankings:** ProTeams, benefiting from flexible race selection, improved their rankings, while low-budget WorldTour teams struggled due to mandatory high-level race participation.
 
 ## **Code and Data Availability**
-The dataset and analysis code are available in this repository. However, the **web crawler used to extract the data from ProCyclingStats is not included**, as it is part of an ongoing research project for my thesis. My advisor has advised against making it publicly available until the project is completed.
+The dataset and analysis code are available in this repository. However, the **web crawler used to extract the data from ProCyclingStats is not included**, as it is part of an ongoing research project.
 
 ## **Contact**
 For questions or collaboration inquiries, please reach out via GitHub or email.
